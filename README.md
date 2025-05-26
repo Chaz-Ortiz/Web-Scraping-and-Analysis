@@ -1,6 +1,6 @@
 # Web Scraping and Analysis in Python
 
-This is an Python script that uses Beatuiful Soup to scrape a web page and perform analysis on the data.
+This is an Python script that uses Beatuiful Soup to scrape a web page and Python perform analysis on the data.
 
 ## Features
 
@@ -11,13 +11,10 @@ This is an Python script that uses Beatuiful Soup to scrape a web page and perfo
 ## Screenshots
 
 <!-- Add screenshots of your app here, e.g., home screen, photo capture, video recording, gallery preview -->
+![ScreenshotTrends](https://github.com/user-attachments/assets/a0a0c2db-9cc2-4657-a266-1dabae471298)
 
 ## Getting Started
 
 ### Prerequisites
 
-Ensure you have the following permissions set up in `AndroidManifest.xml`:
-
-```xml
-<uses-permission android:name="android.permission.CAMERA" />
-<uses-permission android:name="android.permission.RECORD_AUDIO" />
+Python
