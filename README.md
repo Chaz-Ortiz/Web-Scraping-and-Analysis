@@ -1,12 +1,17 @@
 # Web Scraping and Analysis in Python
 
-This is an Python script that uses Beatuiful Soup to scrape a web page and Python perform analysis on the data.
+This is a Python script that uses **Beautiful Soup** to scrape a web page and perform data analysis.
 
 ## Features
 
-- **Beautiful Soup Web Scraping**: Stuff
-- **Revinue prediction**: More stuff.
-- **Regression Analysis**: More stuff.
+- **Web Scraping with Beautiful Soup**: Efficiently extracts structured data from HTML content.
+- **Dynamic Data Collection**: Supports scraping multiple pages or dynamic URLs.
+- **Data Cleaning with Pandas**: Parses, formats, and filters data into usable formats.
+- **Revenue Prediction**: Estimates potential or historical revenue based on available data.
+- **Regression Analysis**: Performs linear regression to identify data trends and correlations.
+- **CSV Export**: Saves cleaned or analyzed data to CSV for further use.
+- **Command Line Interface (CLI)**: Run scripts and specify parameters via terminal.
+- **Error Handling & Logging**: Catches scraping or parsing errors and logs them for debugging.
 
 ## Screenshots
 
@@ -17,4 +22,13 @@ This is an Python script that uses Beatuiful Soup to scrape a web page and Pytho
 
 ### Prerequisites
 
-Python
+- Python 3.x
+- `beautifulsoup4`
+- `requests`
+- `pandas`
+- `scikit-learn` (for regression analysis, if applicable)
+
+You can install the required packages with:
+
+```bash
+pip install beautifulsoup4 requests pandas scikit-learn
