@@ -1,4 +1,4 @@
-# Web Scrapint and Analysis in Python
+# Web Scraping and Analysis in Python
 
 This is an Python script that uses Beatuiful Soup to scrape a web page and perform analysis on the data.
 
